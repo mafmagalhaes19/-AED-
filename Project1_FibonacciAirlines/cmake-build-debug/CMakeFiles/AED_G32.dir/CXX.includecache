@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mafim/Desktop/AED_G32/Cliente/Cliente.h
+string
+-
+iostream
+-
+
+C:/Users/mafim/Desktop/AED_G32/Data/Data.h
+string
+-
+sstream
+-
+
+C:/Users/mafim/Desktop/AED_G32/Passageiro/Passageiro.h
+../Cliente/Cliente.h
+C:/Users/mafim/Desktop/AED_G32/Cliente/Cliente.h
+
+C:/Users/mafim/Desktop/AED_G32/Voo/Voo.cpp
+Voo.h
+C:/Users/mafim/Desktop/AED_G32/Voo/Voo.h
+
+C:/Users/mafim/Desktop/AED_G32/Voo/Voo.h
+../Cliente/Cliente.h
+C:/Users/mafim/Desktop/AED_G32/Cliente/Cliente.h
+../Data/Data.h
+C:/Users/mafim/Desktop/AED_G32/Data/Data.h
+../Passageiro/Passageiro.h
+C:/Users/mafim/Desktop/AED_G32/Passageiro/Passageiro.h
+string
+-
+list
+-
+

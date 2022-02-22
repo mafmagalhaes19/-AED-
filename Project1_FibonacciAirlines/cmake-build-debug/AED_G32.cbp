@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="AED_G32"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AED_G32">
+				<Option output="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/AED_G32.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 AED_G32"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="AED_G32/fast">
+				<Option output="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/AED_G32.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include/c++/backward"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/include-fixed"/>
+					<Add directory="C:/Mingw-w64/mingw32/bin/../lib/gcc/i686-w64-mingw32/8.1.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 AED_G32/fast"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/mafim/Desktop/AED_G32/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/Mingw-w64/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/mafim/Desktop/AED_G32/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Aeroporto/Aeroporto.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Aeroporto/Aeroporto.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Aviao/Aviao.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Aviao/Aviao.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/BST/binaryTree.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Bagagem/Bagagem.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Bagagem/Bagagem.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Bagagem/TransporteBagagem.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Bagagem/TransporteBagagem.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Bilhete/Bilhete.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Bilhete/Bilhete.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Cliente/Cliente.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Cliente/Cliente.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Data/Data.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Data/Data.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/FibonacciAirlines/FibonacciAirlines.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/FibonacciAirlines/FibonacciAirlines.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/FibonacciAirlines/Macros.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/FibonacciAirlines/main.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/LocaisTransporte/Horario.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/LocaisTransporte/Horario.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/LocaisTransporte/LocaisTransporte.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/LocaisTransporte/LocaisTransporte.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Menu/Menu.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Menu/Menu.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Passageiro/Passageiro.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Passageiro/Passageiro.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Servico/Servico.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Servico/Servico.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Voo/Voo.cpp">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/Voo/Voo.h">
+			<Option target="AED_G32"/>
+		</Unit>
+		<Unit filename="C:/Users/mafim/Desktop/AED_G32/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

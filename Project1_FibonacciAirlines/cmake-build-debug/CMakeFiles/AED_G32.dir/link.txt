@@ -1,0 +1,3 @@
+C:\Users\mafim\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\212.5457.51\bin\cmake\win\bin\cmake.exe -E rm -f CMakeFiles\AED_G32.dir/objects.a
+C:\Mingw-w64\mingw32\bin\ar.exe cr CMakeFiles\AED_G32.dir/objects.a @CMakeFiles\AED_G32.dir\objects1.rsp
+C:\Mingw-w64\mingw32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\AED_G32.dir/objects.a -Wl,--no-whole-archive -o AED_G32.exe -Wl,--out-implib,libAED_G32.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\AED_G32.dir\linklibs.rsp
